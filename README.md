@@ -17,3 +17,7 @@
 # Git PULL assim o repositório local é atualizado com os arquivos do repo remoto
 
 # Git Fetch, com este comando é possível vizualizar as alterações antes de dar pull
+
+# Alterando o arquivo na branch New
+
+
