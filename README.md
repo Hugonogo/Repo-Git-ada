@@ -13,3 +13,5 @@
 # Mandando o arquivo para o estado staged com o comando "git add ."
 
 # Documento já esta no repositório remoto
+
+# Git PULL assim o repositório local é atualizado com os arquivos do repo remoto
