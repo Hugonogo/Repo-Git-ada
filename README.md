@@ -1,7 +1,7 @@
 #Iniciando o Git: arquivo no estado de untracked	
 
 
-## README modificado
+## README modificado :P
 
 
 ## Arquivo passado para o estado de staged com "git add ."
@@ -12,3 +12,4 @@
 
 # Mandando o arquivo para o estado staged com o comando "git add ."
 
+# Documento ja esta no repositório remoto
