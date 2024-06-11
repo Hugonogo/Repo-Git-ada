@@ -14,6 +14,6 @@
 
 # Documento já esta no repositório remoto
 
-# Git PULL assim o repositório local é atualizado com os arquivos do repo remot
+# Git PULL assim o repositório local é atualizado com os arquivos do repo remoto
 
 # Git Fetch, com este comando é possível vizualizar as alterações antes de dar pull
